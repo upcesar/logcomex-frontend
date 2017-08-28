@@ -2,13 +2,6 @@
 
 Here is the Front-End for user authentication (Login), using the LogComex Oauth2 API.
 
-These are the available endpoint:
-
-`
-POST | http://www.logcomexlogin.local/api/register
-POST | http://www.logcomexlogin.local/oauth/token
-`
-
 ## Instalation
 
 - Clone the repo using git command: `git clone git@github.com:upcesar/logcomex-frontend.git`. Project files are copied into the new folder `logcomex-frontend`.
